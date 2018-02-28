@@ -1,7 +1,6 @@
 ---
-title: mdeca.github.io
-layout: 
-theme: jekyll-theme-midnight
+title: My page
+layout: default
 ---
 
 # {{ page.title }}
